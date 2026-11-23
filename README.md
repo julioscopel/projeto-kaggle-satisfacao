@@ -59,14 +59,14 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 ### Obtenção dos dados
 
 1. Acesse a página da competição no Kaggle.
-2. Baixe os arquivos `train.csv`, `test.csv` e `sample_submission.csv`.
+2. Baixe os arquivos `train.csv` e `test.csv`.
 3. Coloque os três arquivos na mesma pasta do notebook.
 
 ### Execução
 
 1. Clone ou baixe este repositório.
 2. Abra a pasta do projeto no Jupyter Notebook ou Visual Studio Code.
-3. Abra o arquivo `notebook_kaggle_s6e10.ipynb`.
+3. Abra o arquivo `notebook_kaggle_s6e10_JulioScopel_IFES.ipynb`.
 4. Execute as células sequencialmente, desde o carregamento dos dados até a avaliação dos modelos.
 
 Para reproduzir os resultados, utilize os mesmos arquivos de entrada e as configurações de execução definidas no notebook, incluindo a semente aleatória e os procedimentos de validação.
@@ -76,7 +76,7 @@ Para reproduzir os resultados, utilize os mesmos arquivos de entrada e as config
 ```text
 projeto-kaggle-satisfacao/
 │
-├── notebook_kaggle_s6e10.ipynb
+├── notebook_kaggle_s6e10_JulioScopel_IFES.ipynb
 ├── README.md
 │
 ├── train.csv
