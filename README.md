@@ -2,7 +2,8 @@
 
 ## 1. Sobre o projeto
 
-Este projeto foi desenvolvido como parte de um estudo de aprendizado de máquina, utilizando dados da competição **Kaggle Playground Series S6E10** (disponível em: https://www.kaggle.com/competitions/playground-series-s6e10).
+Este projeto foi desenvolvido como avaliação da disciplina de Reconhecimento de Padrões do Mestrado em Computação Aplicada do IFES.
+trata-se de um estudo de aprendizado de máquina, utilizando dados da competição **Kaggle Playground Series S6E10** (disponível em: https://www.kaggle.com/competitions/playground-series-s6e10).
 
 O objetivo é desenvolver modelos de classificação capazes de prever a satisfação dos passageiros de companhias aéreas, considerando características relacionadas ao perfil dos clientes, às condições da viagem e à experiência com os serviços oferecidos.
 
