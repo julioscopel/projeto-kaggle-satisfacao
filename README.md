@@ -19,7 +19,6 @@ Os arquivos necessários são:
 
 - `train.csv`: conjunto de dados utilizado no treinamento e na avaliação dos modelos.
 - `test.csv`: conjunto de dados destinado à geração de previsões.
-- `sample_submission.csv`: arquivo de exemplo para submissão dos resultados na competição.
 
 A variável-alvo utilizada na classificação é `satisfaction`.
 
@@ -60,7 +59,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 1. Acesse a página da competição no Kaggle.
 2. Baixe os arquivos `train.csv` e `test.csv`.
-3. Coloque os três arquivos na mesma pasta do notebook.
+3. Coloque os arquivos na mesma pasta do notebook.
 
 ### Execução
 
@@ -79,8 +78,8 @@ projeto-kaggle-satisfacao/
 ├── notebook_kaggle_s6e10_JulioScopel_IFES.ipynb
 ├── README.md
 │
-├── train.csv
-├── test.csv
+├── train.rar
+├── test.rar
 ```
 
-Os arquivos CSV podem ser obtidos diretamente na página da competição, caso não estejam disponibilizados no repositório.
+Os arquivos CSV estão compactados nos arquivos .rar e também podem ser obtidos diretamente na página da competição.
